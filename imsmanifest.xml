@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6QsgC63Y7hR_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Emergency Planning</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Emergency_Planning_ORG">
+    <organization identifier="Emergency_Planning_ORG">
+      <title>Emergency Planning</title>
+      <item identifier="Storyline_Sample_1_SCO" isvisible="true" identifierref="__6QsgC63Y7hR_course_id_RES">
+        <title>Emergency Planning</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6QsgC63Y7hR_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6pG6esA3XHq_RB2BDE5.png" />
+      <file href="mobile/5iFCGvEcDFn_80.jpg" />
+      <file href="mobile/6Rcb4akkvcA_80.jpg" />
+      <file href="mobile/5r7Cigw7zbn_80.jpg" />
+      <file href="mobile/6jqYSa2N17z_80.jpg" />
+      <file href="mobile/5ijgD86jjzr_80_P_269_1183_728_584.jpg" />
+      <file href="mobile/63lJmJ4LD9W_80.jpg" />
+      <file href="mobile/5Za0iNxCGU7_80_P_0_0_1365_1259.jpg" />
+      <file href="mobile/5gedHBkfzog_80_P_337_318_809_970.jpg" />
+      <file href="mobile/6AeCugx7MTk_80_P_682_645_532_637.jpg" />
+      <file href="mobile/6cy3mbSadhc_80_P_375_65_959_1159.jpg" />
+      <file href="mobile/6Kz4yxr3hoS_80_P_67_56_774_917.jpg" />
+      <file href="mobile/66G5n4stOKD_80.jpg" />
+      <file href="mobile/63OIIu662dt_P_0_0_1702_1511.png" />
+      <file href="mobile/6gx4xANB0XG_P_557_0_1458_1512.png" />
+      <file href="mobile/6h0oYZU1LWF_P_465_0_1550_1512.png" />
+      <file href="mobile/6VTxyGCFcxL.png" />
+      <file href="mobile/6gzmrE45Tkk_80_P_254_671_773_1376.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5f3A0hWP16b.js" />
+      <file href="html5/data/js/5iCylN6iC4K.js" />
+      <file href="html5/data/js/5Vz7CMJqPku.js" />
+      <file href="html5/data/js/5WVsAD03lAd.js" />
+      <file href="html5/data/js/5wvyGp4aPIY.js" />
+      <file href="html5/data/js/60dtZl0rp9U.js" />
+      <file href="html5/data/js/61aUAxM3DjC.js" />
+      <file href="html5/data/js/679ClsMfmxI.js" />
+      <file href="html5/data/js/6cpJ4mqBDE4.js" />
+      <file href="html5/data/js/6Fr6XBeEEjI.js" />
+      <file href="html5/data/js/6FSQIm3BfGL.js" />
+      <file href="html5/data/js/6ieDlXmezZO.js" />
+      <file href="html5/data/js/6QBYiRyCWJy.js" />
+      <file href="html5/data/js/6UiLDv2676E.js" />
+      <file href="html5/data/js/6W1YL4kJ3KG.js" />
+      <file href="html5/data/js/6XUg57tNxI8.js" />
+      <file href="html5/data/js/6YElEzR0irn.js" />
+      <file href="html5/data/js/6YnKRuKdyad.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
